@@ -1,4 +1,3 @@
-```js
 let moji = prompt('入力せよ');
 console.log(isNaN(moji));
 
@@ -78,4 +77,3 @@ let age = parseInt(moji)
 if (age < 6) {
     console.log('幼児')
 }
-```
