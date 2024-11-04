@@ -1,1 +1,2 @@
-# java-furigana
+# javascript-furigana
+
