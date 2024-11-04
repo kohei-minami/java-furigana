@@ -1,4 +1,3 @@
-```js
 console.log('ハロー！');
 
 console.log(10+5);
@@ -28,4 +27,3 @@ let price = prompt('価格を入力せよ');
 console.log(parseInt(price)+80);
 
 console.log(`ハロー!`,10,3.5)
-```
